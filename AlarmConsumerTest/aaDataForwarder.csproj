@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="mqttsettings - example.json" />
     <None Include="mqttsettings.json" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
