@@ -19,4 +19,4 @@ In terms of source data right now I am demonstrating alams data.  In the future 
 * [Andy Robinson](mailto:andy@phase2automation.com), Principal of [Phase 2 Automation](http://phase2automation.com).
 
 ## License
-MIT License. See the [LICENSE file](/LICENSE) for details.
+MIT License. See the [LICENSE file](/license) for details.
